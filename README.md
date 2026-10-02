@@ -24,6 +24,23 @@ A simple Python program that displays a hotel menu, allows the user to select fo
 - Conditional statements
 - Basic calculations
 
+### 3. Digital Wallet Simulator
+A simple Python-based wallet simulator where users can check their balance, add money, and spend money.
+
+**Features:**
+- Check wallet balance
+- Add money
+- Spend money
+- Insufficient balance checking
+- Exit option
+
+**Concepts Used:**
+- `while` loop
+- `if-elif-else`
+- User input
+- Variables
+- Arithmetic operations
+
 ## Technologies Used
 
 - Python
