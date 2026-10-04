@@ -58,6 +58,24 @@ A simple Python quiz game that asks the user multiple questions and checks their
 - String methods
 - Score calculation
 
+### 5. To-Do List
+A simple Python-based task management program that allows users to add, view, and remove tasks.
+
+**Features:**
+- Add new tasks
+- View all tasks
+- Remove tasks
+- Simple menu-based interface
+- Exit option
+
+**Concepts Used:**
+- Lists
+- `while` loop
+- `if-elif-else`
+- `for` loop
+- `input()`
+- List methods
+
 ## Technologies Used
 
 - Python
