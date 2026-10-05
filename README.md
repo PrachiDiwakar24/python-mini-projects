@@ -76,6 +76,25 @@ A simple Python-based task management program that allows users to add, view, an
 - `input()`
 - List methods
 
+### 6. Expense Tracker
+A simple Python-based expense tracking program that allows users to record expenses and calculate their total spending.
+
+**Features:**
+- Add new expenses
+- View all recorded expenses
+- Calculate total expenses
+- Simple menu-based interface
+- Exit option
+
+**Concepts Used:**
+- Lists
+- Tuples
+- `while` loop
+- `if-elif-else`
+- `for` loop
+- `input()`
+- `sum()`
+
 ## Technologies Used
 
 - Python
