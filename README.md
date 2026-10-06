@@ -95,6 +95,9 @@ A simple Python-based expense tracking program that allows users to record expen
 - `input()`
 - `sum()`
 
+### 7. Rock Paper Scissors
+A simple Python game where the user plays Rock Paper Scissors against the computer.
+
 ## Technologies Used
 
 - Python
