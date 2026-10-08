@@ -116,6 +116,24 @@ A simple Python-based library management system that allows users to manage book
 - `input()`
 - List methods
 
+ ### 9. Movie Ticket Booking System
+A simple Python program that allows users to select a movie, book tickets, and calculate the total ticket price.
+
+**Features:**
+- Displays available movies
+- Select a movie
+- Enter number of tickets
+- Calculates total price
+- Shows booking details
+
+**Concepts Used:**
+- Dictionary
+- Tuple
+- `for` loop
+- `if-else`
+- User input
+- Arithmetic operations
+
 ## Technologies Used
 
 - Python
