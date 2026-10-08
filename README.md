@@ -98,7 +98,7 @@ A simple Python-based expense tracking program that allows users to record expen
 ### 7. Rock Paper Scissors
 A simple Python game where the user plays Rock Paper Scissors against the computer.
 
-### 7. Library Management System
+### 8. Library Management System
 A simple Python-based library management system that allows users to manage books in a library.
 
 **Features:**
