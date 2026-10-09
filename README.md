@@ -134,6 +134,23 @@ A simple Python program that allows users to select a movie, book tickets, and c
 - User input
 - Arithmetic operations
 
+  ### 10. Student Grade Calculator
+A simple Python program that calculates a student's total marks, percentage, and grade.
+
+**Features:**
+- Takes student name and marks as input
+- Calculates total marks
+- Calculates percentage
+- Assigns a grade based on percentage
+- Displays the result
+
+**Concepts Used:**
+- Variables
+- User input
+- Arithmetic operations
+- `if-elif-else`
+- Basic calculations
+
 ## Technologies Used
 
 - Python
