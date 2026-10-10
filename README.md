@@ -151,6 +151,23 @@ A simple Python program that calculates a student's total marks, percentage, and
 - `if-elif-else`
 - Basic calculations
 
+ ### 12. Contact Book Management System
+A simple Python program to store, view, search, and delete contacts.
+
+**Features:**
+- Add new contacts
+- View saved contacts
+- Search contacts by name
+- Delete contacts
+- Menu-based interface
+
+**Concepts Used:**
+- Dictionaries
+- `while` loop
+- `if-elif-else`
+- User input
+- Dictionary methods
+
 ## Technologies Used
 
 - Python
