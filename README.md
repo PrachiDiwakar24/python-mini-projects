@@ -151,7 +151,7 @@ A simple Python program that calculates a student's total marks, percentage, and
 - `if-elif-else`
 - Basic calculations
 
- ### 12. Contact Book Management System
+ ### 11. Contact Book Management System
 A simple Python program to store, view, search, and delete contacts.
 
 **Features:**
@@ -167,6 +167,23 @@ A simple Python program to store, view, search, and delete contacts.
 - `if-elif-else`
 - User input
 - Dictionary methods
+
+  ### 12. Online Shopping Cart System
+A simple Python program that simulates an online shopping cart.
+
+**Features:**
+- Display available products and prices
+- Add products to cart
+- View cart items
+- Calculate total bill
+- Checkout option
+
+**Concepts Used:**
+- Dictionaries
+- Lists and tuples
+- Loops
+- Conditional statements
+- Arithmetic operations
 
 ## Technologies Used
 
