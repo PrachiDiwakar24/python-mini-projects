@@ -185,6 +185,19 @@ A simple Python program that simulates an online shopping cart.
 - Conditional statements
 - Arithmetic operations
 
+### 13. Random Quote Generator
+
+A simple Python mini-project that displays random motivational quotes.
+
+** Features
+- Generates random quotes.
+- Interactive menu.
+- Easy to use.
+
+** Technologies Used
+- Python
+- Random module
+
 ## Technologies Used
 
 - Python
