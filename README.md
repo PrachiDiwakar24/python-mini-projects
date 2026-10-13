@@ -196,7 +196,7 @@ A simple Python mini-project that displays random motivational quotes.
 
 ** Technologies Used
 - Python
-- Random module
+- Random module.
 
 ## Technologies Used
 
