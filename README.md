@@ -198,6 +198,20 @@ A simple Python mini-project that displays random motivational quotes.
 - Python
 - Random module.
 
+14.## Countdown Timer
+
+A simple Python program that counts down from a user-defined time to zero.
+
+### Features
+- Accepts minutes and seconds.
+- Displays a live countdown.
+- Shows a completion message.
+- Handles invalid inputs.
+
+### Technologies Used
+- Python
+- Time module
+
 ## Technologies Used
 
 - Python
