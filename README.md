@@ -212,6 +212,41 @@ A simple Python program that counts down from a user-defined time to zero.
 - Python
 - Time module
 
+15. ## Student Management System
+
+## About the Project
+Student Management System is a Python-based mini project
+designed to manage student records easily.
+
+It allows users to add, view, search, update and delete
+student details.
+
+## Features
+- Add New Student
+- View All Students
+- Search Student Details
+- Update Student Information
+- Delete Student Records
+
+## Technologies Used
+- Python
+- Basic Python Concepts
+- File Handling (if implemented)
+
+## How to Run the Project
+
+1. Download or clone this repository.
+2. Open the project folder in VS Code.
+3. Make sure Python is installed.
+4. Open the terminal.
+5. Run the main Python file:
+
+## Purpose
+The purpose of this project is to understand
+basic Python programming and learn how to
+manage student records using programming.
+
+
 ## Technologies Used
 
 - Python
